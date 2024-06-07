@@ -1,4 +1,4 @@
-#Blackjack Game - HTML, CSS & JavaScript
+# Blackjack Game - HTML, CSS & JavaScript
 
 This is a fun and challenging Blackjack game built using HTML, CSS, and JavaScript. Test your luck and see if you can beat the dealer!
 
@@ -21,7 +21,7 @@ CSS: Creates the visual style and layout, including the background image and tex
 JavaScript: Powers the game logic, dealing cards, calculating sums, and displaying messages.
 
 Live Demo:
-
+https://fastidious-kelpie-2393ff.netlify.app
 Let's Play!
 
 
